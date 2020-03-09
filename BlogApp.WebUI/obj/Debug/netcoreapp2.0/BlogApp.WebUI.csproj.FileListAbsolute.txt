@@ -1,0 +1,11 @@
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.deps.json
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.runtimeconfig.json
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.dll
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.pdb
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.dll
+C:\Users\Muhammet\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.pdb
